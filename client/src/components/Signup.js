@@ -67,6 +67,7 @@ export const SignupForm = () => {
         <label htmlFor="name">Name</label>
         <br />
 
+
         <input
           id="name"
           name="name"
